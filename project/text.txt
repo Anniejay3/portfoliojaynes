@@ -1,0 +1,38 @@
+﻿Lesson 7
+This is a webpage assignment from Lesson 7. This webpage contains my family with two different views of the same photo, one more appropriately sized and cropped for mobile. This webpage is responsive and will allow for compatibility on all types of devices. 
+https://wcet3.waketech.edu/ajaynes/WEB210/lesson9/index.html 
+Responsive design allows your website to be flexible and to be responsive to any screen size from desktop format to mobile screen capabilities.  Responsive images will automatically adjust to fit any screen size. These sizes of images vary based on screen device type and size.
+I actually enjoyed learning this method. I liked to set the different sizes and then go and test it out by stretching and pushing the page back and forth. I feel this is always an important method to incorporate for your website regarding the images and code.
+
+
+
+Bootstrap
+This is a screenshot of a webpage I created for my WEB 210 class. This website was done with Bootstrap. This webpage features a pineapple juice video I made in a Photoshop class a couple years ago.  This webpage also features some of my portfolio pieces from prior classes. Take a look at the webpage in action. https://wcet3.waketech.edu/ajaynes/WEB210/bootstrap/index.html
+Bootstrap 4 is the newest version. Bootstrap is reusable code written in HTML, CSS, and JavaScript. It is a free and open-source front end web development framework to help you create responsive websites and web applications. Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites.
+Bootstrap happened to be my favorite way to build a site. I liked combining the different types of code and seeing them work together to complete the site. I also like the elaborate results you receive with less code and less work.
+
+
+
+
+
+Drop Down Menu
+Drop Down Menu is a box list of choices that appears on a computer screen when a person clicks on the menu's title. It is a list box that allows a user to choose and click a specific option which may lead to a specific page. When the menu is not clicked in as in inactive, it stays a single value. When clicked on and active it displays a drop down menu where the user can chose what option they prefer.
+This is an assignment from Lesson 9. This is a screenshot of a webpage I created from my WEB 210 class.  This site features a drop down navigation menu, as well as my resume. This webpage also features responsive design, making this page readable on any device. 
+I enjoy doing drop down menus. I have tried different ways to make different types of drop down menus using HTML, CSS and Javascript. This featured example of a menu is using HTML and CSS formats. 
+https://wcet3.waketech.edu/ajaynes/WEB210/lesson9/index.html
+
+
+
+
+This is a portfolio piece I created for an prior Illustrator class assignment. This piece features a Map of the National Mall in Washington DC., This map was created before many things have changed down there. The buildings I created are the Capital Building, Native American Museum, Hirshhorn Gallery, Washington Monument, National Museum of Natural History, Swekler Gallery, Freer Gallery, Smithsonian Castle,  I had so much fun creating the various buildings and really learned some things in the process. I spent over 60 hours creating the various building.
+
+This is a sweet treat label I created for the sweet treat assignment in a my prior Graphic Design Class. This product is called Hydro Pop. Hydro Pop is a rehydrating popsicle containing ingredients that build your body up and help it repair. This product is essential, whether you are dehydrated, sick or just want a guiltless sweet treat that also serves a benefit at the same time.
+
+This an assignment was completed in a prior Design class. The assignment was to redo an old ad from specific magazines. I chose to redo a 1960’s Barbie ad. I photographed my daughter’s Barbies and placed them on a beach scene. The beach scene takes place in Kure Beach , NC., where the photo was taken. The clouds were from a photo I took in the mountains. I enjoyed my exclusive photo shoot with my daughter’s old barbies and creating this piece.
+
+I created this Christmas Magazine Cover for a Photoshop assignment. I enjoyed creating this magazine and channeling a child’s Christmas fantasy. I used many different photos to create the magazine.
+
+This a dog treat label was created in Adobe Illustrator for my prior Graphic Design class. Freeze Dried Raw Beef Dog Treats. 
+
+
+

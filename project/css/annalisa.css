@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+background-color:#5da676;
+font-family: 'Open Sans', sans-serif;
+line-height: 1.5;
+
+}
+h1 {
+    /*font-family: 'Special Elite', cursive;*/
+    /*font-family: 'Montserrat', sans-serif;*/
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 350%;
+    text-align: center;
+    color:#f2f2f2;
+    text-shadow: 2px 2px black;
+   text-transform: uppercase;
+
+}
+.container {
+    background-color: #bfbfbf;
+}
+img {
+    border: black 3px solid;
+}
+
+h1, h2, h3, h4, section, ol, address, p {
+    padding: 1%; 
+   
+}
+
+header {
+    background-color: #0583F2;
+   padding-top: 1%;
+}
+header p {
+    /*font-family: 'Special Elite', cursive;*/
+
+
+    font-size: 1.5rem;
+    color:#f2f2f2;
+    /*text-shadow: 1px 1px #f2f2f2;*/
+
+    text-align: center;
+    padding: 0 0 1% 0;
+}
+
+nav {
+    background-color: #0d0d0d;
+}
+
+nav ul li {
+    
+    text-align: center;
+    border-top: solid white 2px;
+   
+}
+nav ul li a:link {
+    text-decoration: none;
+    color: #bfbfbf;
+    background-color: #0d0d0d;
+    padding: 1% 0;
+    display: block;
+
+}
+nav ul li a:visited {
+    text-decoration: none;
+    color: white;
+    padding: 1% 0;
+    display: block;
+
+}
+nav ul li a:hover {
+    text-decoration: none;
+    color: black;
+    background-color: #bfbfbf;
+    padding: 1% 0;
+    display: block;
+
+}
+nav ul li a:active {
+    text-decoration: none;
+    color: #bfbfbf;
+    padding: 1% 0;
+    display: block;
+
+}
+main {
+    background-color: #f2f2f2;
+}
+main form {
+    width: 45%;
+    margin: 1% auto;
+    background-color: #bfbfbf;
+    padding: 2%;
+   
+}
+main form fieldset {
+    padding: 3%;
+  
+}
+main form fieldset ul {
+    list-style-type: none;
+}
+main form fieldset ul li label {
+    width: 30%;
+    display: block;
+}
+
+main section {
+    background-color: #bfbfbf;
+}
+main section p {
+padding: 0 3%;
+
+}
+main section figure {
+    width: 90%;
+    margin: 0 auto;
+
+}
+main section figure img {
+    width: 100%;
+    
+} 
+aside section {
+    background-color: white;
+}
+aside ul {
+    list-style-type: none;
+    padding-left: 2%;
+}
+aside ol {
+  list-style-position: inside;  
+}
+aside ol li a {
+    color: black;
+    font-weight: bold;
+
+}
+aside ol li a:visited {
+    color: black;
+    font-weight: bold; 
+}
+aside ol li a:hover {
+    color: #f2f2f2;
+    font-weight: bold; 
+}
+
+aside figure {
+   
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+aside figure img {
+    width: 100%;
+    
+} 
+figcaption {
+   font-weight: bold;
+}
+footer {
+    background-color: whitesmoke;
+}
+/*desktop view*/
+@media (min-width: 550px) {
+    body {
+        width: 95%;
+    margin: 0 auto;
+    }
+    h2, h3, h4 {
+        text-align: center;
+    }
+
+   nav {
+       width: 100%;
+   } 
+   nav ul {
+       list-style-type: none;
+       width: 75%;
+       margin: 0 auto;
+   }
+   nav ul li {
+       display: inline-block;
+       width: 24%;
+       text-align: center;
+       border: none;
+   }
+nav ul li a:link {
+display: block;
+padding: 4% 0;
+}
+
+.homeMain {
+
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap:1%;
+}
+.home1, .home2, .home3, .home4 {
+    background-color: white;
+}
+aside .asideSub {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 1%;
+}
+main .inspire {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.mainPro {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 1%;
+}
+.mainPro .secPro {
+background-color: white;
+
+}
+.mainPro .secPro p {
+    width: 70%;
+    margin: 0 auto;
+
+}
+.mainPro .secPro p img {
+    width: 100%;
+
+}
+.mainPro h2 {
+    grid-column: 1 / span 2;
+}
+     
+}
